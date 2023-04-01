@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Template {
+    //一个部分和，即数列A某个下标区间内的数的和，可表示为前缀和相减的形式
     static int N = 10000;
     static int n,m;
     static int[] a = new int[N];
